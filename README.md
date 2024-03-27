@@ -30,9 +30,3 @@ Check [this tutorial](https://www.youtube.com/watch?v=R7P5gIF9ZgU)
 #### How to add the environment variables?
 
 Check since 4:47 in [this video](https://youtu.be/Oxylwf2wr94?t=287)
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at danielcalleco@gmail.com
