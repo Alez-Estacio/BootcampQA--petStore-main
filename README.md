@@ -22,17 +22,6 @@ $ newman run petstore.postman_collection.json -e pet_store.postman_environment.j
 ```
 
 
-## Author
-
-- [@DanielCalleCO](https://www.github.com/DanielCalleCO)
-
-
-## Demo
-
-
-![GIF](https://user-images.githubusercontent.com/100431019/174146725-9ff76262-2834-4b62-bc93-ded444e968fd.gif)
-
-
 ## FAQ
 
 #### How to install and run newman?
